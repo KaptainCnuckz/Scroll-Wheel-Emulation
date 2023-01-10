@@ -1,6 +1,6 @@
 ## Description
 
-A simple executable that emulates a mouse scroll wheel's up and down movements, via Shift + Up and Down arrow keys.
+A simple executable that emulates a mouse scroll wheel's up and down movements, via Shift + Up and Down arrow keys. Made in and compiled with AutoHotkey 1.1.
 
 
 ## Install & Usage
